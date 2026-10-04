@@ -20,7 +20,7 @@ conversations and receive personalized feedback.
   from backend retrieval and evaluation.
 - Integrated Groq and refined Google News retrieval and topic enrichment
   to provide richer context for the voice AI.
-- Combined six rule-based scores with AI-generated coaching.
+- Combined six rule-based scores with AI-generated coaching such as vocabulary, cultural clues and sentence upgrades.
 - Created the demo narrative, hand-drawn storyboard, and animation concepts;
   produced and edited the final video.
 
