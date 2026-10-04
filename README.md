@@ -7,7 +7,9 @@ I'm interested in systems, computer graphics, and interactive tools.
 ## SpeakEasy
 ### AI Voice Small-Talk Practice App
 
-[![Watch the SpeakEasy demo](speakeasy-demo.gif)](https://youtu.be/BdcyFQ5QbK8)
+[![Watch the SpeakEasy demo]<a href="https://youtu.be/BdcyFQ5QbK8">
+  <img src="speakeasy-demo.gif" width="250" alt="SpeakEasy Demo">
+</a>](https://youtu.be/BdcyFQ5QbK8)
 
 A mobile app for English learners to practice realistic voice
 conversations and receive personalized feedback.
