@@ -35,14 +35,14 @@ conversations and receive personalized feedback.
 ### Interactive CPU Simulator
 
 <a href="lc4-studio-demo-2x.gif">
-  <img src="lc4-studio-demo-2x.gif" width="600" alt="LC4 Studio Demo">
+  <img src="lc4-studio-demo-2x.gif" width="1000" alt="LC4 Studio Demo">
 </a>
 
 A browser-based LC4 simulator that loads object files and lets users
 inspect assembly instructions, step through execution, and observe
 register and memory changes.
 
-**[Watch Demo](lc4-studio-demo-2x.gif) |
+**[Watch Demo](https://youtu.be/KYXePN8_2tM) |
 [Code & Project Details](https://github.com/Bristenlin762/lc4-simulator)**
 
 **My contributions**
