@@ -43,7 +43,7 @@ inspect assembly instructions, step through execution, and observe
 register and memory changes.
 
 **[Watch Demo](https://youtu.be/KYXePN8_2tM) |
-[Code & Project Details](https://github.com/Bristenlin762/lc4-simulator)**
+[Code & Project Details](https://github.com/Bristenlin762/lc4-studio)**
 
 **My contributions**
 - Extended my computer systems coursework into an interactive
