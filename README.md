@@ -30,3 +30,33 @@ conversations and receive personalized feedback.
 
 *Four-person Penn team project.
 [Original repository](https://github.com/MaCanXH/smalltalk).*
+
+LC4 Studio
+
+Interactive CPU Simulator
+
+<a href="https://github.com/Bristenlin762/lc4-simulator">
+  <img src="lc4-studio-demo-2x.gif" width="600" alt="LC4 Studio Demo">
+</a>
+
+A browser-based LC4 simulator that loads .obj files and lets users
+inspect assembly instructions, step through execution, and track
+registers, condition codes, and memory changes.
+
+Code & Project Details
+
+Project highlights
+
+Extended my computer systems coursework into an interactive debugging tool.
+
+Implemented a C execution core supporting arithmetic, logic, comparisons,
+branches, subroutine calls, and memory operations.
+
+Compiled the C core to WebAssembly for execution directly in the browser.
+
+Added object-file loading, instruction disassembly, and an interface with
+step, run, pause, reset, and register and memory change highlighting.
+
+Technologies: C · WebAssembly · JavaScript · HTML · CSS
+
+Individual project inspired by computer systems coursework at Penn.
